@@ -12,6 +12,8 @@ informed decision-making and business innovation.
 ## 🚀 Skills & Technologies
 
 - **Data Analysis**: Power BI, Tableau, Excel, SQL, DAX, Python
+- **Data Engineering**: ETL, Data Pipelines, Data Warehousing - (Basics )
+- **Big Data Technologies**: Hadoop, Kafka - (Basics )
 - **Business Analysis**: Requirement Gathering, Workflow Analysis, Process Optimization
 - **Programming Languages**: Python, SQL, C
 - **Database Management**: SQL Server, MySQL
