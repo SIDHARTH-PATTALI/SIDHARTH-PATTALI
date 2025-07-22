@@ -13,7 +13,7 @@
 - **Programming Languages**: Python, SQL, C  
 - **Database Management**: SQL Server, MySQL  
 - **Tools & Platforms**: Microsoft Office, Tableau, Jupyter Notebook, MATLAB  
-- **AI/LLM Technologies**: LangChain, ChromaDB, LLaMA 3 , Vectors, Prompt Engineering, Streamlit UI Integration, Web Scraping ,
+
 
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
