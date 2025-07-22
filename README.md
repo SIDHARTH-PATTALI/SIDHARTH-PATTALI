@@ -1,23 +1,20 @@
 # Sidharth Pattali's GitHub Profile
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharth-pattali&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth-pattali" /> </p>
 
-## 👋 Hi, I'm Sidharth Pattali
-I'm a Enthusiastic and detail-oriented B.Tech graduate in Electronics and Communication Engineering with a strong foundation in
-programming, data analysis, statistical modeling, and problem-solving. Possessing hands-on experience with different projects.
-Adaptable and collaborative, with a knack for building meaningful relationships and a passion for leveraging data to drive
-informed decision-making and business innovation.
-
 ---
 
 ## 🚀 Skills & Technologies
 
-- **Data Analysis**: Power BI, Tableau, Excel, SQL, DAX, Python
-- **Data Engineering**: ETL, Data Pipelines, Data Warehousing - (Basics )
-- **Big Data Technologies**: Hadoop, Kafka - (Basics )
-- **Business Analysis**: Requirement Gathering, Workflow Analysis, Process Optimization
-- **Programming Languages**: Python, SQL, C
-- **Database Management**: SQL Server, MySQL
-- **Tools & Platforms**: Microsoft Office, Tableau, Jupyter Notebook, MATLAB
+- **AI/LLM Technologies**: LangChain, ChromaDB, LLaMA 3 , Vectors, Prompt Engineering, Streamlit UI Integration, Web Scraping ,
+- **Data Analysis**: Power BI, Tableau, Excel, SQL, DAX, Python  
+- **Data Engineering**: ETL, Data Pipelines, Data Warehousing – (Basics)  
+- **Big Data Technologies**: Hadoop, Kafka – (Basics)  
+- **Business Analysis**: Requirement Gathering, Workflow Analysis, Process Optimization  
+- **Programming Languages**: Python, SQL, C  
+- **Database Management**: SQL Server, MySQL  
+- **Tools & Platforms**: Microsoft Office, Tableau, Jupyter Notebook, MATLAB  
+- **AI/LLM Technologies**: LangChain, ChromaDB, LLaMA 3 , Vectors, Prompt Engineering, Streamlit UI Integration, Web Scraping ,
+
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-left: 5px;"/>
