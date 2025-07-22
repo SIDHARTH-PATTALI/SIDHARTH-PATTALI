@@ -19,6 +19,22 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-left: 5px;"/>
   </a> 
+   <!-- AI Icon -->
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/internet-network/artificial-intelligence-icon.svg" alt="Artificial Intelligence" width="40" height="40" style="margin-left:5px;" />
+  </a>
+  <!-- LangChain Icon -->
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/s/langchain-dark.png" alt="LangChain" width="40" height="40" style="margin-left:5px;" />
+  </a>
+  <!-- ChromaDB Icon -->
+  <a href="https://trychroma.com/" target="_blank" rel="noreferrer">
+    <img src="https://trychroma.com/static/media/chroma-icon.ear.512x512.png" alt="ChromaDB" width="40" height="40" style="margin-left:5px;" />
+  </a>
+  <!-- Meta LLaMA Icon -->
+  <a href="https://www.llama.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/122899879?s=200&v=4" alt="Meta LLaMA" width="40" height="40" style="margin-left:5px;" />
+  </a>
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-left: 5px;"/>
